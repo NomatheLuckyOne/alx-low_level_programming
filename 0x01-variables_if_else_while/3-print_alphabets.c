@@ -7,14 +7,14 @@
 
 int main(void)
 {
-  char a = 'a';
-  char b = 'A';
+char a = 'a';
+char b = 'A';
 while (a <= 'z')
 {
 putchar(a);
 a++;
 }
-while (b <= 'z')
+while (b <= 'Z')
 {
 putchar(b);
 b++;
