@@ -1,0 +1,1 @@
+nazo ezi new
