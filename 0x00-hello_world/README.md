@@ -1,1 +1,1 @@
-script final
+final script
