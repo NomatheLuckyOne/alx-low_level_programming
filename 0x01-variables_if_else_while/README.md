@@ -1,1 +1,1 @@
-programming is exciting
+programming
