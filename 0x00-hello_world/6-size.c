@@ -1,5 +1,4 @@
-#!/bin/bash
-printf("Size of a char: %zu byte(s)\n", sizeof(char));#include <studio.h>
+#include <stdio.h>
 
 /**
  * main - Entry point
