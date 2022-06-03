@@ -1,1 +1,1 @@
-nazo ezi new
+whatever the script wants
