@@ -1,35 +1,20 @@
-nclude < stdio.h >
-
-
-
+#include <stdio.h>
 /**
+ *main - Magic happens here
  *
- *  * main - Write a program that prints all single numbers of base 10 from 0
- *
- *   * new line and a putchar used
- *
- *    * Return: Always 0 (Success)
- *
- *     */
-
+ *Description: Base 16 number and in lowercase
+ *Return: 0
+ */
 int main(void)
-
 {
+char x;
 
-int n;
+for (x = '0'; x <= '9'; ++x)
+putchar(x);
+for (x = 'a'; x <= 'f'; ++x)
+putchar(x);
 
-
-
-	for (n = 48; n < 58; n++)
-
-{
-
-			putchar(n);
-
-									}
-
-			putchar('\n');
+putchar('\n');
 
 return (0);
-
 }
