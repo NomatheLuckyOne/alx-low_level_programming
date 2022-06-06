@@ -5,6 +5,7 @@
  * newline
  * Return: 0 alwaays return
  */
+
 int main(void)
 
 {
