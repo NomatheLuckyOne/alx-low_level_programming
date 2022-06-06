@@ -6,6 +6,7 @@
  * Return: 0 alwaays return
  */
 int main(void)
+
 {
 	
 	char ch = 'a';
