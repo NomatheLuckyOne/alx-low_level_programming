@@ -1,15 +1,22 @@
 #include <stdio.h>
+
 /**
- *main - all single digit numbers of base 10 starting from 0, followed by a new line
- *
- *Return: Always 0 (Success)
+ * main - program that prints the alphabet in lowercase, followed by a new line
+ * newline
+ * Return: 0 alwaays return
  */
 int main(void)
 {
-int i = 0
-for (i = 0; i < 0; i++)
-{
-printf("%d\n", i);
-}
-return (0);
-}
+	char ch = 'a';
+
+	while (ch <= 'z')
+	{
+		if (ch != 'e' && ch != 'q')
+		{
+			putchar(ch);
+		}
+		ch++;
+	}
+	putchar('\n');
+	return (0);
+} 
