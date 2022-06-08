@@ -1,12 +1,18 @@
 #include "main.h"
 
 /**
- * main - check the code
+ * print_alphabet - prints the letters of the alphabet in small case
  *
- * Return: Always 0.
- */
-int main(void)
+ * Return: void
+*/
+
+void print_alphabet(void)
 {
-    print_alphabet();
-    return (0);
+	char y;
+
+	for (y = 'a'; y <= 'z'; y++)
+	{
+		_putchar(y);
+	}
+	_putchar('\n');
 }
