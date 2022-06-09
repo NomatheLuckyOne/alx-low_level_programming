@@ -1,1 +1,1 @@
-Time table
+Add a function of integers
