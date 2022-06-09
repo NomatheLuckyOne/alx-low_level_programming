@@ -1,1 +1,1 @@
-Add a function of integers
+fun that prints all
