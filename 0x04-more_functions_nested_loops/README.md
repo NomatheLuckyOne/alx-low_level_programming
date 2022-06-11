@@ -1,1 +1,1 @@
-its getti g harder
+its getting harder
