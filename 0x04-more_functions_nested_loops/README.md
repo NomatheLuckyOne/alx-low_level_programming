@@ -1,1 +1,1 @@
-ave kumandi maan
+I qualify to be a programmer now
