@@ -1,1 +1,1 @@
-Pointers,Arrays and Strings Functions in C
+Pointers, Arrays and Strings Functions in c
