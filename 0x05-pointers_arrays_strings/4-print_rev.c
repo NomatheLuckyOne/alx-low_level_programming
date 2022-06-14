@@ -7,7 +7,7 @@
  * Return: void.
  */
 
-oid print_rev(char *s)
+void print_rev(char *s)
 {
 	int myLen = strlen(s);
 	int i = (myLen - 1);
