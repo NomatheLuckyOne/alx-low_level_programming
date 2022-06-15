@@ -9,8 +9,9 @@
  * Return: dest, a char *
  */
 
-char *_strcpy(char *dest, char *src)
-{
+char *_strcpy(char *dest)
+}
+
 	strcpy(dest, src);
 	return (dest);
 }
