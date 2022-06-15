@@ -1,7 +1,8 @@
 #include "main.h"
 
 /**
- * print_rev - a function that printsa string,in reverse *fcounteris to first count to end,n is to count back
+ * print_rev - a function that printsa string,in reverse *fcounteris to first
+ * count to end,n is to count back
  * @s: str input
  * Return: string in reverse
  */
