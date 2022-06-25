@@ -1,14 +1,13 @@
 #include <stdio.h>
 
 /**
- * main - prints all arguements it receives
+ * main - Prints all arguments it receives
  * @argc: arguement count
- * @argv: arguement vector
+ * @argv: arguement count
  *
- * Return: int
+ * Return: Always 0.
  */
-
-int main(argc, char *argv[])
+int main(int argc, char *argv[])
 {
 	int arg;
 
