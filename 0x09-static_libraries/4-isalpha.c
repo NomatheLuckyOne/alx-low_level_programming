@@ -1,1 +1,11 @@
-char *_memset(char *s, char b, unsigned int n);
+#include "main.h"
+
+/**
+ *_isalpha - checks for alphabetic character
+ *@c: the character to be checked
+ * Return: 1 if c is a letter, 0 otherwise
+ */
+int _isalpha(int c)
+{
+	return ((c >= 'a' && c <= 'z') || (c >= 'A' && c <= 'Z'));
+}
