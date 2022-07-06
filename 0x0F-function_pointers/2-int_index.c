@@ -1,4 +1,3 @@
-nes (24 sloc)  505 Bytes
 #include "function_pointers.h"
 
 /**
